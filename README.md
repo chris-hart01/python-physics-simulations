@@ -6,7 +6,26 @@ A collection of physics and simulations created in Python to model motion, force
 - Pendulum motion
 - Orbital mechanics
 - Conservation of energy
-- Collision dynamics
 
 ## Tools Used
 - VPython
+
+# Setup and Execution
+
+## Requirements
+- Python 3
+- VPython
+
+## Install Dependencies
+
+```bash
+pip install vpython
+```
+
+## Run a Simulation
+
+```bash
+python pendulum_simulation.py
+```
+
+Replace the filename with any simulation file in the repository.
